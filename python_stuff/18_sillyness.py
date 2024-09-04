@@ -17,5 +17,3 @@ elif user_input == "капуста":
     print("Бабан не Капуста!")
 elif user_input == "2+2":
     print("2+2=5... нет, 6!")
-elif user_input == "правда":
-    print(f"А я знаю, что {username} дрочит ;)")
