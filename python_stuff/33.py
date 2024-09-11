@@ -1,7 +1,7 @@
 import requests
 
-API_KEY = "228c05c4c4mshd04d269955da4d3p105e19jsn25914e1ae4ea"
-API_URL = "https://yahoo-weather5.p.rapidapi.com/weather?location=velikooktyabrsky&format=json&u=c"
+API_KEY = ""
+API_URL = ""
 
 headers = {
     "X-RapidAPI-Key": API_KEY,
