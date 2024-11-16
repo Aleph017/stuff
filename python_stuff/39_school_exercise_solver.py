@@ -1,3 +1,5 @@
+# this one works slow and uses too much RAM, don't use it pls.
+
 import time
 import os
 import sys
