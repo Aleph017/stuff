@@ -22,7 +22,7 @@ def get_weather():
 		print(f"{wttr}")
 
 	else:
-		print("fuck you")
+		print("dammit")
 
 if __name__ == "__main__":
 	get_weather()
